@@ -12,6 +12,7 @@ export default function SelectedProject({
     month: "short",
     day: "numeric",
   });
+
   return (
     <div className="w-full">
       <header>
@@ -33,6 +34,7 @@ export default function SelectedProject({
       </header>
       <Tasks
         project={project}
+        selectedProjectId={project.id}
         tasks={tasks}
         onAdd={onAddTask}
         onDelete={onDeleteTasks}
