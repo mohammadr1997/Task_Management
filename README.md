@@ -2,7 +2,7 @@
 ### 📖 Summary
 This is a simple and responsive Project & Task Management App built using React. The app allows users to create multiple projects, add tasks to each project, and manage their workflow effectively. It's designed with reusability and modularity in mind, making it a great foundation for more complex productivity applications
 
-### [Live Demo](https://task-management-pearl-iota.vercel.app/)
+### 🔗[Live Demo](https://task-management-pearl-iota.vercel.app/)
 
 ### 🚀 Features
 * 🆕 Create new projects with title, description, and due date
