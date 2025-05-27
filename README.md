@@ -23,9 +23,9 @@ This is a simple and responsive Project & Task Management App built using React.
 * Modal dialogs are implemented using React’s forwardRef, useImperativeHandle, and createPortal
 
 ### 📂 Project Structure
-![Project Structure (image/structure.png)
+![Project Structure] (image/structure.png)
 
-### 🖼️ Screenshots
+### 🖼️ Image
 ![Alt Text](image/shot.png)
 
 ### 🛠️ Technologies Used
