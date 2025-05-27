@@ -1,4 +1,4 @@
-## 📁 React Project & Task Manager
+# 📁 React Project & Task Manager
 ### 📖 Summary
 This is a simple and responsive Project & Task Management App built using React. The app allows users to create multiple projects, add tasks to each project, and manage their workflow effectively. It's designed with reusability and modularity in mind, making it a great foundation for more complex productivity applications
 
@@ -25,7 +25,7 @@ This is a simple and responsive Project & Task Management App built using React.
 ### 📂 Project Structure
 ![Alt Text](image/structure.png)
 
-### 🖼️ Image
+### 📸 Image
 ![Alt Text](image/shot.png)
 
 ### 🛠️ Technologies Used
